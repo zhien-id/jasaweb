@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.bg-l2 {
+    background-color: #d7d7d785;
+}
+
+
+.css-t-101 {
+
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.css-text-bg-l2 {
+    color: #545454;
+    font-family:'Inter';
+    font-weight: 500;
+}
+
+.bg-l1{
+    background-color: #F3FAFB;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.08);
+}
+
+.css-t-102 {
+    font-size:14px;
+}
+
+.active-link-102 {
+    color: #545454;
+    font-family:'Inter';
+    font-weight: 600;
+}
+
+.fa-solid {
+    color: #545454;
+}
+
+.kategori-box{
+    padding: 30px;
+    backgrou
+}
